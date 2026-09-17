@@ -1,0 +1,6 @@
+{
+  "name": "Crafty Menu Maker",
+  "description": "Egyedi, képes rácsrendszerű FiveM pause menü és játékon belüli menükészítő felület.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
